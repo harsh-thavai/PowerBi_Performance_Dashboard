@@ -5,7 +5,7 @@
 https://app.powerbi.com/groups/me/reports/56b14cd5-6032-4d25-9230-d922f7f044b3/ReportSection?redirectedFromSignup=1,1&experience=power-bi
 
 ## Overview
-This Power BI dashboard provides a comprehensive view of Plant Co.'s quantity performance for the year 2023. It allows for year-over-year comparisons and offers insights across different countries, products, and months.
+This Power BI dashboard provides a comprehensive view of Plant Co.'s quantity performance. It allows for year-over-year comparisons and offers insights across different countries, products, and months.
 
 ## Key Features
 - Year-to-Date (YTD) performance metrics
